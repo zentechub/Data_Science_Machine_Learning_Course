@@ -7,7 +7,7 @@ This repository contains a topic-wise curated list of Machine Learning and Data 
 
 ### Contents
 
-- [Introduction](https://github.com/ujjwalkarn/Machine-Learning-Tutorials?tab=readme-ov-file#general)
+- [Introduction](https://github.com/vhanawa1/ml_tutorials/blob/main/README.md#introduction)
 
 ### Introduction
 
