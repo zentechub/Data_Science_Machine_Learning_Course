@@ -3,8 +3,6 @@
 Machine Learning Tutorials 
 This repository contains a topic-wise curated list of Machine Learning and Data Science tutorials. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome).
 
-[Curated list of Python tutorials for Data Science and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython).
-
 ### Contents
 
 - [Introduction](https://github.com/vhanawa1/ml_tutorials/blob/main/README.md#introduction)
