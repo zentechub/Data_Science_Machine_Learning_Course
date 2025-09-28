@@ -35,5 +35,11 @@ https://github.com/vhanawa1/ml_tutorials/edit/main/README.md
 - [Have Fun With Machine Learning](https://github.com/humphd/have-fun-with-machine-learning)
 - [Twitter's Most Shared #machineLearning Content From The Past 7 Days](http://theherdlocker.com/tweet/popularity/machinelearning)
 - [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
+- 
+- [Stat Trek Website](http://stattrek.com/) - A dedicated website to teach yourselves Statistics
+- [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach
+- [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers) - Slides by Jake VanderPlas
+- [Online Statistics Book](http://onlinestatbook.com/2/index.html) - An Interactive Multimedia Course for Studying Statistics
+- [What is a Sampling Distribution?](http://stattrek.com/sampling/sampling-distribution.aspx)
 
 
