@@ -42,4 +42,9 @@ https://github.com/vhanawa1/ml_tutorials/edit/main/README.md
 - [Online Statistics Book](http://onlinestatbook.com/2/index.html) - An Interactive Multimedia Course for Studying Statistics
 - [What is a Sampling Distribution?](http://stattrek.com/sampling/sampling-distribution.aspx)
 
+### Genetic Algorithms
+
+- [Genetic Algorithms Wikipedia Page](https://en.wikipedia.org/wiki/Genetic_algorithm)
+- [Simple Implementation of Genetic Algorithms in Python (Part 1)](http://outlace.com/miniga.html), [Part 2](http://outlace.com/miniga_addendum.html)
+- [Genetic Algorithms vs Artificial Neural Networks](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
 
